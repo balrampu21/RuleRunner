@@ -57,7 +57,7 @@ namespace RuleEngineAPI.Controllers
                     {
                         Amount = Convert.ToDecimal(values[0]),
                         MerchantId = Convert.ToInt32(values[1]),
-                        CardHolderId = Convert.ToInt32(values[2]),
+                       // CardHolderId = Convert.ToInt32(values[2]),
                         Timestamp = DateTime.Parse(values[3]),
                         Type = values[4],
                         Status = "Pending"  // Default status to "Pending" for uploaded transactions
