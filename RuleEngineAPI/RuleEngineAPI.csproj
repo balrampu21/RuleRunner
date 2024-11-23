@@ -11,7 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RuleEngine\RuleEngine.csproj" />
+    <ProjectReference Include="..\RuleEngine.Entity\RuleEngine.Entity.csproj" />
+    <ProjectReference Include="..\RuleEngine.Library\RuleEngine.Library.csproj" />
+    <ProjectReference Include="..\RuleEngine\RuleRunner.csproj" />
   </ItemGroup>
 
 </Project>
