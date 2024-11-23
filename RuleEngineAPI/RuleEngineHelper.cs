@@ -12,14 +12,22 @@ namespace RuleEngineAPI
             if (string.IsNullOrWhiteSpace(address))
                 return null;
 
-            var parts = address.Split(',').Select(p => p.Trim()).ToArray();
-            return parts.Length > 0 ? parts[^1] : null; // Last part is assumed to be the country
+            // Split address by common delimiters and take the last part as the country
+            var parts = address.Split(new[] { ',', '-', '/' }, StringSplitOptions.RemoveEmptyEntries)
+                                .Select(p => p.Trim())
+                                .ToArray();
+
+            if (parts.Length == 0)
+                return null;
+
+            var lastPart = parts[^1];
+
+            // Handle cases like "Saint Kitts and Nevis"
+            if (lastPart.Contains("and") || lastPart.Contains(" "))
+                return lastPart;
+
+            return lastPart;
         }
 
-        // Check if a country is sanctioned
-        public static bool IsSanctionedCountry(string country, List<string> sanctionedCountries)
-        {
-            return sanctionedCountries.Contains(country, StringComparer.OrdinalIgnoreCase);
-        }
     }
 }

@@ -35,10 +35,10 @@ namespace RuleEngineAPI
             return (flaggedTransactions, reviewTransactions);
         }
         private void ProcessCountry(
-            string country,
-            Transaction transaction,
-            List<FlaggedTransactions> flaggedTransactions,
-            List<ReviewTransactions> reviewTransactions)
+    string country,
+    Transaction transaction,
+    List<FlaggedTransactions> flaggedTransactions,
+    List<ReviewTransactions> reviewTransactions)
         {
             if (string.IsNullOrEmpty(country))
             {
@@ -47,36 +47,41 @@ namespace RuleEngineAPI
                 return;
             }
 
+            // Normalize country for comparisons
+            country = country.ToLowerInvariant();
+
             // Exact match with sanctioned countries
-            if (_sanctionedCountries.Contains(country, StringComparer.OrdinalIgnoreCase))
+            if (_sanctionedCountries.Any(s => s.ToLowerInvariant() == country))
             {
                 flaggedTransactions.Add(new FlaggedTransactions { Transaction = transaction });
                 return;
             }
 
             // Partial match with sanctioned countries
-            if (_sanctionedCountries.Any(s => s.Contains(country, StringComparison.OrdinalIgnoreCase)))
+            if (_sanctionedCountries.Any(s => s.ToLowerInvariant().Contains(country) || country.Contains(s.ToLowerInvariant())))
             {
                 reviewTransactions.Add(new ReviewTransactions { Transaction = transaction });
                 return;
             }
 
-            // Check in the country list
-            if (_countryList.Contains(country, StringComparer.OrdinalIgnoreCase))
+            // Check against country list
+            if (_countryList.Any(c => c.ToLowerInvariant() == country))
             {
                 // Exact match in country list - No action
                 return;
             }
 
-            // Partial match with country list - No action
-            if (_countryList.Any(c => c.Contains(country, StringComparison.OrdinalIgnoreCase)))
+            if (_countryList.Any(c => c.ToLowerInvariant().Contains(country) || country.Contains(c.ToLowerInvariant())))
             {
+                // Partial match in country list - No action
                 return;
             }
 
-            // If country not found in the list, add to review
+            // If country not found in either list, add to review
             reviewTransactions.Add(new ReviewTransactions { Transaction = transaction });
         }
+
     }
 }
+
 
