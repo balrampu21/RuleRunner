@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using RuleEngine;
-using RuleEngine.Entity;
+using RuleEngineAPI;
+using RuleEngineAPI;
 using System.Data;
+using RuleEngineAPI;
 using System.Data.SqlClient;
 using static RuleEngineAPI.RuleService;
+using RuleEngine.Entity;
 
 namespace RuleEngineAPI.Controllers
 {
@@ -24,8 +26,19 @@ namespace RuleEngineAPI.Controllers
                 "Iran",
                 "Russia"
             };
+            // Load country list
+            var countryList = new List<string>
+            {
+                "United States",
+                "United Kingdom",
+                "Switzerland",
+                "India",
+                "Germany",
+                "France",
+                "China"
+            };
 
-            _ruleProcessor = new RuleProcessor(sanctionedCountries);
+            _ruleProcessor = new RuleProcessor(sanctionedCountries, countryList);
         }
 
         [HttpPost("flag-and-review")]
