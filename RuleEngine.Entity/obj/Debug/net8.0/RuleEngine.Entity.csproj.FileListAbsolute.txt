@@ -1,0 +1,11 @@
+C:\Users\balra\source\repos\RuleEngine.Entity\bin\Debug\net8.0\RuleEngine.Entity.deps.json
+C:\Users\balra\source\repos\RuleEngine.Entity\bin\Debug\net8.0\RuleEngine.Entity.dll
+C:\Users\balra\source\repos\RuleEngine.Entity\bin\Debug\net8.0\RuleEngine.Entity.pdb
+C:\Users\balra\source\repos\RuleEngine.Entity\obj\Debug\net8.0\RuleEngine.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balra\source\repos\RuleEngine.Entity\obj\Debug\net8.0\RuleEngine.Entity.AssemblyInfoInputs.cache
+C:\Users\balra\source\repos\RuleEngine.Entity\obj\Debug\net8.0\RuleEngine.Entity.AssemblyInfo.cs
+C:\Users\balra\source\repos\RuleEngine.Entity\obj\Debug\net8.0\RuleEngine.Entity.csproj.CoreCompileInputs.cache
+C:\Users\balra\source\repos\RuleEngine.Entity\obj\Debug\net8.0\RuleEngine.Entity.dll
+C:\Users\balra\source\repos\RuleEngine.Entity\obj\Debug\net8.0\refint\RuleEngine.Entity.dll
+C:\Users\balra\source\repos\RuleEngine.Entity\obj\Debug\net8.0\RuleEngine.Entity.pdb
+C:\Users\balra\source\repos\RuleEngine.Entity\obj\Debug\net8.0\ref\RuleEngine.Entity.dll

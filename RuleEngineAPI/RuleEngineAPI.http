@@ -1,0 +1,6 @@
+@RuleEngineAPI_HostAddress = http://localhost:5027
+
+GET {{RuleEngineAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\balra\\source\\repos\\RuleEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57880E43-52B6-44B2-858B-7FF425F91FB8}|..\\RuleEngineAPI\\RuleEngineAPI.csproj|c:\\users\\balra\\source\\repos\\ruleengineapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57880E43-52B6-44B2-858B-7FF425F91FB8}|..\\RuleEngineAPI\\RuleEngineAPI.csproj|c:\\users\\balra\\source\\repos\\ruleengineapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57880E43-52B6-44B2-858B-7FF425F91FB8}|..\\RuleEngineAPI\\RuleEngineAPI.csproj|c:\\users\\balra\\source\\repos\\ruleengineapi\\ruleengineapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57880E43-52B6-44B2-858B-7FF425F91FB8}|..\\RuleEngineAPI\\RuleEngineAPI.csproj|c:\\users\\balra\\source\\repos\\ruleengineapi\\ruleengineapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719F7388-D608-4EE4-8280-EE66C8A84AF2}|..\\RuleEngine.Entity\\RuleEngine.Entity.csproj|c:\\users\\balra\\source\\repos\\ruleengine.entity\\transactionqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3AD-C457-4CEA-A04F-BC2BBA86CC5C}|RuleEngine.csproj|c:\\users\\balra\\source\\repos\\ruleengine\\queueprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3AD-C457-4CEA-A04F-BC2BBA86CC5C}|RuleEngine.csproj|solutionrelative:queueprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57880E43-52B6-44B2-858B-7FF425F91FB8}|..\\RuleEngineAPI\\RuleEngineAPI.csproj|c:\\users\\balra\\source\\repos\\ruleengineapi\\ruleengineapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3AD-C457-4CEA-A04F-BC2BBA86CC5C}|RuleEngine.csproj|c:\\users\\balra\\source\\repos\\ruleengine\\transactionprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3AD-C457-4CEA-A04F-BC2BBA86CC5C}|RuleEngine.csproj|solutionrelative:transactionprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3AD-C457-4CEA-A04F-BC2BBA86CC5C}|RuleEngine.csproj|c:\\users\\balra\\source\\repos\\ruleengine\\ruleenginerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3AD-C457-4CEA-A04F-BC2BBA86CC5C}|RuleEngine.csproj|solutionrelative:ruleenginerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C86CAF-0FBB-4B56-B612-D1FB16DF9EF3}|..\\QueueProcessorService\\QueueProcessorService.csproj|c:\\users\\balra\\source\\repos\\queueprocessorservice\\queueprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C86CAF-0FBB-4B56-B612-D1FB16DF9EF3}|..\\QueueProcessorService\\QueueProcessorService.csproj|c:\\users\\balra\\source\\repos\\queueprocessorservice\\queueprocessorservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C86CAF-0FBB-4B56-B612-D1FB16DF9EF3}|..\\QueueProcessorService\\QueueProcessorService.csproj|c:\\users\\balra\\source\\repos\\queueprocessorservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C86CAF-0FBB-4B56-B612-D1FB16DF9EF3}|..\\QueueProcessorService\\QueueProcessorService.csproj|c:\\users\\balra\\source\\repos\\queueprocessorservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3AD-C457-4CEA-A04F-BC2BBA86CC5C}|RuleEngine.csproj|c:\\users\\balra\\source\\repos\\ruleengine\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3AD-C457-4CEA-A04F-BC2BBA86CC5C}|RuleEngine.csproj|solutionrelative:filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719F7388-D608-4EE4-8280-EE66C8A84AF2}|..\\RuleEngine.Entity\\RuleEngine.Entity.csproj|c:\\users\\balra\\source\\repos\\ruleengine.entity\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3AD-C457-4CEA-A04F-BC2BBA86CC5C}|RuleEngine.csproj|c:\\users\\balra\\source\\repos\\ruleengine\\velocityrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3AD-C457-4CEA-A04F-BC2BBA86CC5C}|RuleEngine.csproj|solutionrelative:velocityrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57880E43-52B6-44B2-858B-7FF425F91FB8}|..\\RuleEngineAPI\\RuleEngineAPI.csproj|c:\\users\\balra\\source\\repos\\ruleengineapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719F7388-D608-4EE4-8280-EE66C8A84AF2}|..\\RuleEngine.Entity\\RuleEngine.Entity.csproj|c:\\users\\balra\\source\\repos\\ruleengine.entity\\ruleengine.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3AD-C457-4CEA-A04F-BC2BBA86CC5C}|RuleEngine.csproj|c:\\users\\balra\\source\\repos\\ruleengine\\interfaces\\irule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3AD-C457-4CEA-A04F-BC2BBA86CC5C}|RuleEngine.csproj|solutionrelative:interfaces\\irule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719F7388-D608-4EE4-8280-EE66C8A84AF2}|..\\RuleEngine.Entity\\RuleEngine.Entity.csproj|c:\\users\\balra\\source\\repos\\ruleengine.entity\\cardholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719F7388-D608-4EE4-8280-EE66C8A84AF2}|..\\RuleEngine.Entity\\RuleEngine.Entity.csproj|c:\\users\\balra\\source\\repos\\ruleengine.entity\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719F7388-D608-4EE4-8280-EE66C8A84AF2}|..\\RuleEngine.Entity\\RuleEngine.Entity.csproj|c:\\users\\balra\\source\\repos\\ruleengine.entity\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719F7388-D608-4EE4-8280-EE66C8A84AF2}|..\\RuleEngine.Entity\\RuleEngine.Entity.csproj|c:\\users\\balra\\source\\repos\\ruleengine.entity\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719F7388-D608-4EE4-8280-EE66C8A84AF2}|..\\RuleEngine.Entity\\RuleEngine.Entity.csproj|c:\\users\\balra\\source\\repos\\ruleengine.entity\\geolocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3AD-C457-4CEA-A04F-BC2BBA86CC5C}|RuleEngine.csproj|c:\\users\\balra\\source\\repos\\ruleengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3AD-C457-4CEA-A04F-BC2BBA86CC5C}|RuleEngine.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionQueue.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\TransactionQueue.cs",
+              "RelativeDocumentMoniker": "..\\RuleEngine.Entity\\TransactionQueue.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\TransactionQueue.cs",
+              "RelativeToolTip": "..\\RuleEngine.Entity\\TransactionQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:10:53.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RuleEngineAPI",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngineAPI\\RuleEngineAPI.csproj",
+              "RelativeDocumentMoniker": "..\\RuleEngineAPI\\RuleEngineAPI.csproj",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngineAPI\\RuleEngineAPI.csproj",
+              "RelativeToolTip": "..\\RuleEngineAPI\\RuleEngineAPI.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T03:09:09.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QueueProcessorService",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\QueueProcessorService\\QueueProcessorService.csproj",
+              "RelativeDocumentMoniker": "..\\QueueProcessorService\\QueueProcessorService.csproj",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\QueueProcessorService\\QueueProcessorService.csproj",
+              "RelativeToolTip": "..\\QueueProcessorService\\QueueProcessorService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T03:07:44.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QueueProcessorService.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\QueueProcessorService\\QueueProcessorService.cs",
+              "RelativeDocumentMoniker": "..\\QueueProcessorService\\QueueProcessorService.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\QueueProcessorService\\QueueProcessorService.cs",
+              "RelativeToolTip": "..\\QueueProcessorService\\QueueProcessorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:06:21.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngineAPI\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "..\\RuleEngineAPI\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngineAPI\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "..\\RuleEngineAPI\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:49:56.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RuleEngineAPI",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngineAPI\\RuleEngineAPI.csproj",
+              "RelativeDocumentMoniker": "..\\RuleEngineAPI\\RuleEngineAPI.csproj",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngineAPI\\RuleEngineAPI.csproj",
+              "RelativeToolTip": "..\\RuleEngineAPI\\RuleEngineAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T03:13:18.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngineAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RuleEngineAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngineAPI\\Program.cs",
+              "RelativeToolTip": "..\\RuleEngineAPI\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:16:22.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RuleEngineAPI.http",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngineAPI\\RuleEngineAPI.http",
+              "RelativeDocumentMoniker": "..\\RuleEngineAPI\\RuleEngineAPI.http",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngineAPI\\RuleEngineAPI.http",
+              "RelativeToolTip": "..\\RuleEngineAPI\\RuleEngineAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-23T03:13:28.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QueueProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngine\\QueueProcessor.cs",
+              "RelativeDocumentMoniker": "QueueProcessor.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngine\\QueueProcessor.cs",
+              "RelativeToolTip": "QueueProcessor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:10:34.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RuleEngineRunner.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngine\\RuleEngineRunner.cs",
+              "RelativeDocumentMoniker": "RuleEngineRunner.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngine\\RuleEngineRunner.cs",
+              "RelativeToolTip": "RuleEngineRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:48:55.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngine\\TransactionProcessor.cs",
+              "RelativeDocumentMoniker": "TransactionProcessor.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngine\\TransactionProcessor.cs",
+              "RelativeToolTip": "TransactionProcessor.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:56:34.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\QueueProcessorService\\Worker.cs",
+              "RelativeDocumentMoniker": "..\\QueueProcessorService\\Worker.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\QueueProcessorService\\Worker.cs",
+              "RelativeToolTip": "..\\QueueProcessorService\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:05:23.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\QueueProcessorService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\QueueProcessorService\\Program.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\QueueProcessorService\\Program.cs",
+              "RelativeToolTip": "..\\QueueProcessorService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:06:02.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngine\\FileReader.cs",
+              "RelativeDocumentMoniker": "FileReader.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngine\\FileReader.cs",
+              "RelativeToolTip": "FileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:55:44.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\Transaction.cs",
+              "RelativeDocumentMoniker": "..\\RuleEngine.Entity\\Transaction.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\Transaction.cs",
+              "RelativeToolTip": "..\\RuleEngine.Entity\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:38:24.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VelocityRule.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngine\\VelocityRule.cs",
+              "RelativeDocumentMoniker": "VelocityRule.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngine\\VelocityRule.cs",
+              "RelativeToolTip": "VelocityRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:45:09.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngineAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\RuleEngineAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngineAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\RuleEngineAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:50:00.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RuleEngine.Entity",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\RuleEngine.Entity.csproj",
+              "RelativeDocumentMoniker": "..\\RuleEngine.Entity\\RuleEngine.Entity.csproj",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\RuleEngine.Entity.csproj",
+              "RelativeToolTip": "..\\RuleEngine.Entity\\RuleEngine.Entity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T00:48:27.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRule.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngine\\Interfaces\\IRule.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRule.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngine\\Interfaces\\IRule.cs",
+              "RelativeToolTip": "Interfaces\\IRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:44:25.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\Device.cs",
+              "RelativeDocumentMoniker": "..\\RuleEngine.Entity\\Device.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\Device.cs",
+              "RelativeToolTip": "..\\RuleEngine.Entity\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:40:54.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GeoLocation.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\GeoLocation.cs",
+              "RelativeDocumentMoniker": "..\\RuleEngine.Entity\\GeoLocation.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\GeoLocation.cs",
+              "RelativeToolTip": "..\\RuleEngine.Entity\\GeoLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:40:21.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cardholder.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\Cardholder.cs",
+              "RelativeDocumentMoniker": "..\\RuleEngine.Entity\\Cardholder.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\Cardholder.cs",
+              "RelativeToolTip": "..\\RuleEngine.Entity\\Cardholder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:40:10.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Merchant.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\Merchant.cs",
+              "RelativeDocumentMoniker": "..\\RuleEngine.Entity\\Merchant.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\Merchant.cs",
+              "RelativeToolTip": "..\\RuleEngine.Entity\\Merchant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:38:57.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "..\\RuleEngine.Entity\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngine.Entity\\PaymentMethod.cs",
+              "RelativeToolTip": "..\\RuleEngine.Entity\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:38:37.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\balra\\source\\repos\\RuleEngine\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\balra\\source\\repos\\RuleEngine\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:34:34.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
